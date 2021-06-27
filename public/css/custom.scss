@@ -1,0 +1,16 @@
+
+.imgLoader {
+  display: none;
+  opacity: 0 !important;
+}
+
+.pricebox {
+  span {
+    font-size: 30px;
+    color: orange;
+  }
+}
+
+.ui.items .item.active {
+  border: 3px solid red;
+}
